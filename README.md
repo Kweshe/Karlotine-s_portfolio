@@ -1,9 +1,9 @@
-# Data analyst 
+# Data Analyst 
 
 ### Education
 
-Ms project monitoring and evaluation
-Ms Bevavioural economics and data science
+Ms project monitoring and evaluation, MSc
+Ms Behavioural Economics and Data Science, MSc
 
 ### Projects
 Project 1
