@@ -7,10 +7,11 @@ As a data analyst, I specialize in transforming raw data into meaningful insight
 
 ### Education
 
-Ms project monitoring and evaluation, MSc
-Ms Behavioural Economics and Data Science, MSc
+Project monitoring and evaluation, MSc
+Behavioural Economics and Data Science, MSc
 
 ### Projects
+
 Project 1
 SSSSSSSSSSSSSSSSSSSSSSSSS
 
