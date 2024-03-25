@@ -45,4 +45,4 @@ Time is an important variable in the treatment of many diseases. Owing the devel
 
 ### Project 4: Measuring the Impact of the UK Soft Drink Sugar Tax Using Loyalty Card Data
 
-To be upload soon
+To be uploaded soon
